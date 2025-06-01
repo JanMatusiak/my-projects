@@ -1,3 +1,3 @@
 # My projects
 
-Some description
+I will publish my individual and university projects here
