@@ -1,7 +1,3 @@
 # My projects
 
-I will publish my individual and university projects here
-
-## Subheader
-
-I will publish my statistics report here
+Extra assignment report: https://github.com/JanMatusiak/my-projects/blob/main/extra_assignment/analysis.md
